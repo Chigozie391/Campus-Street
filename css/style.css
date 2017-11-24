@@ -1,0 +1,30 @@
+.mx-auto {
+    margin: 0 auto;
+}
+
+.md-form {
+    margin-bottom: 30px;
+}
+
+.create-form {
+    max-width: 500px;
+    margin: 50px auto;
+}
+
+.md-form input {
+    padding: 10px 0;
+}
+
+.md-form label {}
+
+.md-form .prefix.grey-text {
+    margin-top: 1rem;
+}
+
+.md-form select {
+    margin-left: 3rem;
+    width: calc(100% - 3rem);
+    padding: 5px;
+    margin-top: 10px;
+    border-top-width: 0;
+}
