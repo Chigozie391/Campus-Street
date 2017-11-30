@@ -2,7 +2,8 @@
 include 'core/init.php';
 if(!is_logged_in()){
 	header('location:login.php');
-}else{
+}
+
 	include 'includes/head.php';
 	include 'includes/navigation.php';
 
@@ -22,7 +23,7 @@ if(!is_logged_in()){
 	</div>
 	<?php 
 	include 'includes/footer.php';
-}
+
 ?>
 
 

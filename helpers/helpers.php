@@ -29,4 +29,15 @@ function login($userID){
 		return false;
 	}
 
- ?>
+	function is_admin(){
+		global $userData;
+		if($userData['admin'] == 1){
+			return true;
+		}
+		
+	}
+
+	function not_admin($url = '../login.php'){
+	header('location:'.$url);
+}
+	 ?>

@@ -1,3 +1,7 @@
+i.fa {
+    font-size: 20px !important;
+}
+
 .mx-auto {
     margin: 0 auto;
 }
@@ -29,6 +33,10 @@
 }
 
 
+
+
+
+
 /*login*/
 
 .form-simple .header {
@@ -58,4 +66,9 @@
 
 .login-form {
     padding: 50px;
+}
+
+a.category {
+    width: 100%;
+    text-align: left;
 }

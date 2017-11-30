@@ -1,4 +1,10 @@
+<?php 
+	$query = $db->query("SELECT * FROM categories");
+ ?>
 <div class="col-md-3 col-sm-3">
-	<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus deserunt quia repellat veniam facilis, recusandae itaque ea repellendus eius laudantium iusto unde cupiditate, sequi, rem fugiat, laboriosam perferendis. Quidem officia ut nesciunt molestias dolores consectetur saepe ipsa repudiandae ad illo facilis temporibus, accusamus fugiat maxime distinctio explicabo obcaecati similique, illum, vero! Architecto consequatur rerum, quidem tenetur nostrum dicta, a, eaque odio laboriosam id ipsam distinctio asperiores consectetur nulla error voluptas et sapiente aspernatur minima illo at cupiditate! Quae officia reprehenderit excepturi, distinctio placeat, unde mollitia iusto iste expedita, quas officiis voluptatum consequuntur voluptates odio, quos alias nihil animi suscipit reiciendis.</p>
+	<div class="mt-5"></div>
+	<?php while($result = mysqli_fetch_assoc($query)): ?>
+	<a href = "#" class="btn btn-primary category"><i class="fa fa-<?= $result['icons']?>"></i> <?=$result['category'] ?></a>
+	<?php endwhile; ?>
 </div>
 	
