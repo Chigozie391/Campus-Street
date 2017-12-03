@@ -7,7 +7,7 @@
 				<div class="card card-cascade wider">
 					<div class="view">
 					</div>
-					<img src="./img/images/img.jpg" class="img-fluid" alt="">
+					<img src="./img/ads/img.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="card-body text-center mt-4">
 					<h5 class="card-title h4-responsive">Originsl Gucci Sandal</h5>
@@ -25,7 +25,7 @@
 				<div class="card card-cascade wider">
 					<div class="view">
 					</div>
-					<img src="./img/images/img.jpg" class="img-fluid" alt="">
+					<img src="./img/ads/img.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="card-body text-center mt-4">
 					<h5 class="card-title h4-responsive">Originsl Gucci Sandal</h5>
@@ -43,7 +43,7 @@
 				<div class="card card-cascade wider">
 					<div class="view">
 					</div>
-					<img src="./img/images/img.jpg" class="img-fluid" alt="">
+					<img src="./img/ads/img.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="card-body text-center mt-4">
 					<h5 class="card-title h4-responsive">Originsl Gucci Sandal</h5>
@@ -61,7 +61,7 @@
 				<div class="card card-cascade wider">
 					<div class="view">
 					</div>
-					<img src="./img/images/img.jpg" class="img-fluid" alt="">
+					<img src="./img/ads/img.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="card-body text-center mt-4">
 					<h5 class="card-title h4-responsive">Originsl Gucci Sandal</h5>
@@ -79,7 +79,7 @@
 				<div class="card card-cascade wider">
 					<div class="view">
 					</div>
-					<img src="./img/images/img.jpg" class="img-fluid" alt="">
+					<img src="./img/ads/img.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="card-body text-center mt-4">
 					<h5 class="card-title h4-responsive">Originsl Gucci Sandal</h5>
@@ -97,7 +97,7 @@
 				<div class="card card-cascade wider">
 					<div class="view">
 					</div>
-					<img src="./img/images/img.jpg" class="img-fluid" alt="">
+					<img src="./img/ads/img.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="card-body text-center mt-4">
 					<h5 class="card-title h4-responsive">Originsl Gucci Sandal</h5>
@@ -115,7 +115,7 @@
 				<div class="card card-cascade wider">
 					<div class="view">
 					</div>
-					<img src="./img/images/img.jpg" class="img-fluid" alt="">
+					<img src="./img/ads/img.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="card-body text-center mt-4">
 					<h5 class="card-title h4-responsive">Originsl Gucci Sandal</h5>
@@ -133,7 +133,7 @@
 				<div class="card card-cascade wider">
 					<div class="view">
 					</div>
-					<img src="./img/images/img.jpg" class="img-fluid" alt="">
+					<img src="./img/ads/img.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="card-body text-center mt-4">
 					<h5 class="card-title h4-responsive">Originsl Gucci Sandal</h5>

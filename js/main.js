@@ -35,10 +35,11 @@ function isvalidNumber(el) {
 
 $('form#create').on('submit', function(e) {
     var elements = this.elements;
+
     if (isempty(elements)) {
-        alert('field empty');
-        e.preventDefault();
-        return;
+        // alert('field empty');
+        // e.preventDefault();
+        // return;
     } else if (elements.email) {
         if (!isvalidEmail(elements.email.value)) {
             alert('Email Validation Failed');
@@ -84,4 +85,5 @@ function get_campus(selected) {
 
 $('#school').on('change', function() {
     get_campus();
+
 });

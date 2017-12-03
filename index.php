@@ -11,10 +11,8 @@ if(!is_logged_in()){
 
 	<div class="container">
 		<?php echo $_SESSION['usercs'];
-
-
 		?>
-		<div class="row mt-5">
+		<div class="row m-nav">
 			<?php 
 			include 'includes/sidebar.php';
 			include 'includes/products.php';

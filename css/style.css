@@ -1,5 +1,9 @@
+.m-nav {
+    margin-top: 100px;
+}
+
 i.fa {
-    font-size: 20px !important;
+    font-size: 15px !important;
 }
 
 .mx-auto {
@@ -30,11 +34,12 @@ i.fa {
     width: calc(100% - 3rem);
     padding: 5px;
     margin-top: 10px;
+    border-radius: 5px;
 }
 
-
-
-
+input[type=file] {
+    padding: 5px;
+}
 
 
 /*login*/
@@ -71,4 +76,12 @@ i.fa {
 a.category {
     width: 100%;
     text-align: left;
+}
+
+input#photo {
+    height: 250px;
+    width: 250px;
+    background-color: #ccc;
+    display: block;
+    margin: 0 auto;
 }
